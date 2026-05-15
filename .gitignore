@@ -3,3 +3,8 @@ catboost_info*
 other_stuff/*
 .DS_Store
 Assignment3/pymc_intro.ipynb.ipynb
+Assignment4/assignment4_intro.ipynb
+Assignment4/data/
+Assignment4/logs
+Assignment4/lightning_logs
+Assignment5/data
